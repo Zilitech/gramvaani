@@ -1,7 +1,7 @@
   <?php
     
     // Page vars    
-    $__title      = "Buy VPS Hosting | 7-Days Free Trial | HostX.com";
+    $__title      = "Zilitech IT Services";
     $__meta_title = "HostX | HTML5 Hosting Template";    
     $__meta_description = "Your all in one solution to grow online. Start a free trial to create a beautiful website, get a domain name, fast hosting, online marketing and award-winning 24/7 support.";
     $__meta_keywords    = "Buy VPS, Buy VPS Hosting,Buy Cheap VPS, Free VPS, Trial VPS";
